@@ -1,0 +1,9 @@
+#server
+server/node-modules
+.env
+
+#spotify-admin
+spotify-admin/node-modules
+
+#spotify-clone-only-react
+spotify-clone-only-react/node-modules
